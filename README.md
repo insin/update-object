@@ -2,7 +2,7 @@
 
 Mirror of Facebook's `update` immutability helper (https://github.com/facebook/react/blob/master/src/addons/update.js).
 
-## Uasge
+## Usage
 
 ```
 npm install update-object
