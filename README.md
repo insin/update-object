@@ -1,6 +1,6 @@
 # update-object
 
-A mirror of Facebook's `update` immutability helper (https://github.com/facebook/react/blob/master/src/addons/update.js).
+Mirror of Facebook's `update` immutability helper (https://github.com/facebook/react/blob/master/src/addons/update.js).
 
 ## Uasge
 
